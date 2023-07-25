@@ -6,7 +6,7 @@
 # Installation
 
 ```
-git clone https://github.com/lengochoahust/subdomain-enumeration-tool.git
+git clone https://github.com/h2oa/subdomain-enumeration-tool.git
 ```
 
 # Usage
